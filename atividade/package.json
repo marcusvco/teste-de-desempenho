@@ -10,5 +10,8 @@
     "bcryptjs": "^3.0.3",
     "body-parser": "^2.2.0",
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/k6": "^1.4.0"
   }
 }
